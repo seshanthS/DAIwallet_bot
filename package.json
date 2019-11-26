@@ -4,13 +4,17 @@
   "description": "Send DAI to your telegram contacts.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+"engines": {
+    "node": "12.13.0",
+    "npm": "6.12.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/seshanthS/DAIwallet_bot.git"
   },
-  "author": "seshanthS <seshanth.s@hotmail.com\">",
+  "author": "seshanthS <seshanth.s@hotmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/seshanthS/DAIwallet_bot/issues"
