@@ -1,0 +1,23 @@
+{
+  "name": "daiwallet_bot",
+  "version": "1.0.0",
+  "description": "Send DAI to your telegram contacts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seshanthS/DAIwallet_bot.git"
+  },
+  "author": "seshanthS <seshanth.s@hotmail.com\">",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seshanthS/DAIwallet_bot/issues"
+  },
+  "homepage": "https://github.com/seshanthS/DAIwallet_bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0",
+    "telegram-bot-api": "^1.3.3"
+  }
+}
